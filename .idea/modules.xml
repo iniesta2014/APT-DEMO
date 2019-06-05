@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracticesAPT.iml" filepath="$PROJECT_DIR$/PracticesAPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCompiler/TestCompiler.iml" filepath="$PROJECT_DIR$/TestCompiler/TestCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationlib/annotationlib.iml" filepath="$PROJECT_DIR$/annotationlib/annotationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
